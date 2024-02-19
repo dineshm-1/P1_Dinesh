@@ -1,0 +1,336 @@
+Food,Category
+Cows' milk,Dairy products
+Milk skim,Dairy products
+Buttermilk,Dairy products
+"Evaporated, undiluted",Dairy products
+Fortified milk,Dairy products
+Powdered milk,Dairy products
+"skim, instant",Dairy products
+"skim, non-instant",Dairy products
+Goats' milk,Dairy products
+(1/2 cup ice cream),Dairy products
+Cocoa,Dairy products
+skim. milk,Dairy products
+(cornstarch),Dairy products
+Custard,Dairy products
+Ice cream,Dairy products
+Ice milk,Dairy products
+Cream or half-and-half,Dairy products
+or whipping,Dairy products
+Cheese,Dairy products
+uncreamed,Dairy products
+Cheddar,Dairy products
+"Cheddar, grated cup",Dairy products
+Cream cheese,Dairy products
+Processed cheese,Dairy products
+Roquefort type,Dairy products
+Swiss,Dairy products
+Eggs raw,Dairy products
+Eggs Scrambled or fried,Dairy products
+Yolks,"Fats, Oils, Shortenings"
+Butter,"Fats, Oils, Shortenings"
+Butter,"Fats, Oils, Shortenings"
+Butter,"Fats, Oils, Shortenings"
+Hydrogenated cooking fat,"Fats, Oils, Shortenings"
+Lard,"Fats, Oils, Shortenings"
+Margarine,"Fats, Oils, Shortenings"
+"Margarine, 2 pat or","Fats, Oils, Shortenings"
+Mayonnaise,"Fats, Oils, Shortenings"
+Corn oil,"Fats, Oils, Shortenings"
+Olive oil,"Fats, Oils, Shortenings"
+Safflower seed oil,"Fats, Oils, Shortenings"
+French dressing,"Fats, Oils, Shortenings"
+Thousand Island sauce,"Fats, Oils, Shortenings"
+Salt pork,"Meat, Poultry"
+Bacon,"Meat, Poultry"
+Beef,"Meat, Poultry"
+Hamburger,"Meat, Poultry"
+Ground lean,"Meat, Poultry"
+Roast beef,"Meat, Poultry"
+Steak,"Meat, Poultry"
+"Steak, lean, as round","Meat, Poultry"
+Corned beef,"Meat, Poultry"
+Corned beef hash canned,"Meat, Poultry"
+Corned beef hash Dried,"Meat, Poultry"
+Pot-pie,"Meat, Poultry"
+Corned beef hash Stew,"Meat, Poultry"
+chicken,"Meat, Poultry"
+"Fried, breast or leg and thigh chicken","Meat, Poultry"
+Roasted chicken,"Meat, Poultry"
+"Chicken livers, fried","Meat, Poultry"
+"Duck, domestic","Meat, Poultry"
+"Lamb, chop, broiled","Meat, Poultry"
+Leg roasted,"Meat, Poultry"
+"Shoulder, braised","Meat, Poultry"
+"Pork, chop, 1 thick","Meat, Poultry"
+Ham pan-broiled,"Meat, Poultry"
+"Ham, as ","Meat, Poultry"
+"Ham, canned, spiced","Meat, Poultry"
+Pork roast,"Meat, Poultry"
+Pork sausage,"Meat, Poultry"
+Turkey,"Meat, Poultry"
+Veal,"Meat, Poultry"
+Roast,"Meat, Poultry"
+Clams,"Fish, Seafood"
+Cod,"Fish, Seafood"
+Crab meat,"Fish, Seafood"
+Fish sticks fried,"Fish, Seafood"
+Flounder,"Fish, Seafood"
+Haddock,"Fish, Seafood"
+Halibut,"Fish, Seafood"
+Herring,"Fish, Seafood"
+Lobster,"Fish, Seafood"
+Mackerel,"Fish, Seafood"
+Oysters,"Fish, Seafood"
+Oyster stew,"Fish, Seafood"
+Salmon,"Fish, Seafood"
+Sardines,"Fish, Seafood"
+Scallops,"Fish, Seafood"
+Shad,"Fish, Seafood"
+Shrimp,"Fish, Seafood"
+Swordfish,"Fish, Seafood"
+Tuna,"Fish, Seafood"
+Artichoke,Vegetables A-E
+Asparagus,Vegetables A-E
+Beans,Vegetables A-E
+Lima,Vegetables A-E
+"Lima, dry, cooked",Vegetables A-E
+"Navy, baked with pork",Vegetables A-E
+Red kidney,Vegetables A-E
+Bean sprouts,Vegetables A-E
+Beet greens,Vegetables A-E
+Beetroots,Vegetables A-E
+Broccoli,Vegetables A-E
+Brussels sprouts,Vegetables A-E
+Sauerkraut,Vegetables A-E
+Steamed cabbage,Vegetables A-E
+Carrots,Vegetables A-E
+"Raw, grated",Vegetables A-E
+"Strips, from raw",Vegetables A-E
+Cauliflower,Vegetables A-E
+Celery,Vegetables A-E
+Stalk raw,Vegetables A-E
+Chard steamed,Vegetables A-E
+Collards,Vegetables A-E
+Corn,Vegetables A-E
+cooked or canned,Vegetables A-E
+Cucumbers,Vegetables A-E
+Dandelion greens,Vegetables A-E
+Eggplant,Vegetables A-E
+Endive,Vegetables A-E
+Kale,Vegetables F-P
+Kohlrabi,Vegetables F-P
+"Lambs quarters, steamed",Vegetables F-P
+Lentils,Vegetables F-P
+Lettuce,Vegetables F-P
+Iceberg,Vegetables F-P
+Mushrooms canned,Vegetables F-P
+Mustard greens,Vegetables F-P
+Okra,Vegetables F-P
+Onions,Vegetables F-P
+"Raw, green",Vegetables F-P
+Parsley,Vegetables F-P
+Parsnips,Vegetables F-P
+Peas,Vegetables F-P
+"Fresh, steamed peas",Vegetables R-Z
+Frozen peas,Vegetables R-Z
+Split cooked peas,Vegetables R-Z
+heated peas,Vegetables R-Z
+Peppers canned,Vegetables R-Z
+"Peppers Raw, green, sweet",Vegetables R-Z
+Peppers with beef and crumbs,Vegetables R-Z
+"Potatoes, baked",Vegetables R-Z
+French-fried,Vegetables R-Z
+Potatoes Mashed with milk and butter,Vegetables R-Z
+"Potatoes, pan-tried",Vegetables R-Z
+Scalloped with cheese potatoes,Vegetables R-Z
+Steamed potatoes before peeling,Vegetables R-Z
+Potato chips,Vegetables R-Z
+Radishes,Vegetables R-Z
+Rutabagas,Vegetables R-Z
+Soybeans,Vegetables R-Z
+Spinach,Vegetables R-Z
+Squash,Vegetables R-Z
+"Winter, mashed",Vegetables R-Z
+Sweet potatoes,Vegetables R-Z
+Candied,Vegetables R-Z
+Tomatoes,Vegetables R-Z
+"Raw, 2 by 2 1/2",Vegetables R-Z
+Tomato juice,Vegetables R-Z
+Tomato catsup,Vegetables R-Z
+Turnip greens,Vegetables R-Z
+"Turnips, steamed",Vegetables R-Z
+"Watercress stems, raw",Fruits A-F
+Apple juice canned,Fruits A-F
+Apple vinegar,Fruits A-F
+"Apples, raw",Fruits A-F
+Stewed or canned,Fruits A-F
+Apricots,Fruits A-F
+"Dried, uncooked",Fruits A-F
+Fresh,Fruits A-F
+"Nectar, or juice",Fruits A-F
+Avocado,Fruits A-F
+Banana,Fruits A-F
+Blackberries,Fruits A-F
+Blueberries,Fruits A-F
+Cantaloupe,Fruits A-F
+Cherries,Fruits A-F
+"Fresh, raw",Fruits A-F
+Cranberry sauce sweetened,Fruits A-F
+Dates,Fruits A-F
+Figs,Fruits A-F
+"Fresh, raw figs",Fruits A-F
+figs Canned with syrup ,Fruits A-F
+"Fruit cocktail, canned",Fruits A-F
+Grapefruit sections,Fruits G-P
+"Grapefruit, fresh, 5"" diameter",Fruits G-P
+Grapefruit juice,Fruits G-P
+Grapes,Fruits G-P
+"European, as Muscat, Tokay",Fruits G-P
+Grape juice,Fruits G-P
+Lemon juice,Fruits G-P
+Lemonade concentratefrozen,Fruits G-P
+Limeade concentrate frozen,Fruits G-P
+Olives large,Fruits G-P
+OlivesRipe,Fruits G-P
+"Oranges 3"" diameter",Fruits G-P
+Orange juice,Fruits G-P
+Frozen ,Fruits G-P
+Papaya,Fruits G-P
+Peaches,Fruits G-P
+"Fresh, raw",Fruits G-P
+Pears,Fruits G-P
+"Raw, 3 by 2V",Fruits G-P
+Persimmons,Fruits G-P
+Pineapple,Fruits G-P
+Pineapple Crushed,Fruits G-P
+"Raw, diced",Fruits G-P
+Pineapple juice,Fruits G-P
+Plums,Fruits G-P
+"Raw, 2"" diameter",Fruits G-P
+Prunes,Fruits G-P
+Prune juice,Fruits G-P
+Raisins,Fruits R-Z
+Raspberries,Fruits R-Z
+"Raw, red",Fruits R-Z
+Rhubarb sweetened,Fruits R-Z
+Strawberries,Fruits R-Z
+Raw,Fruits R-Z
+Tangerines,Fruits R-Z
+Watermelon,Fruits R-Z
+Biscuits,"Breads, cereals, fastfood,grains"
+Bran flakes,"Breads, cereals, fastfood,grains"
+"Bread, cracked wheat","Breads, cereals, fastfood,grains"
+Rye,"Breads, cereals, fastfood,grains"
+"White, 20 slices, or","Breads, cereals, fastfood,grains"
+Whole-wheat,"Breads, cereals, fastfood,grains"
+Whole-wheat,"Breads, cereals, fastfood,grains"
+Corn bread ground meal,"Breads, cereals, fastfood,grains"
+Cornflakes,"Breads, cereals, fastfood,grains"
+Corn grits cooked,"Breads, cereals, fastfood,grains"
+Corn meal,"Breads, cereals, fastfood,grains"
+Crackers,"Breads, cereals, fastfood,grains"
+"Soda, 2 1/2 square","Breads, cereals, fastfood,grains"
+Farina,"Breads, cereals, fastfood,grains"
+Flour,"Breads, cereals, fastfood,grains"
+Wheat (all purpose),"Breads, cereals, fastfood,grains"
+Wheat (whole),"Breads, cereals, fastfood,grains"
+Macaroni,"Breads, cereals, fastfood,grains"
+Baked with cheese,"Breads, cereals, fastfood,grains"
+Muffins,"Breads, cereals, fastfood,grains"
+Noodles,"Breads, cereals, fastfood,grains"
+Oatmeal,"Breads, cereals, fastfood,grains"
+"Pancakes 4"" diam.","Breads, cereals, fastfood,grains"
+"Wheat, pancakes 4"" diam.","Breads, cereals, fastfood,grains"
+"Pizza 14"" diam.","Breads, cereals, fastfood,grains"
+Popcorn salted,"Breads, cereals, fastfood,grains"
+Puffed rice,"Breads, cereals, fastfood,grains"
+Puffed wheat presweetened,"Breads, cereals, fastfood,grains"
+Rice,"Breads, cereals, fastfood,grains"
+Converted,"Breads, cereals, fastfood,grains"
+White,"Breads, cereals, fastfood,grains"
+Rice flakes,"Breads, cereals, fastfood,grains"
+Rice polish,"Breads, cereals, fastfood,grains"
+Rolls,"Breads, cereals, fastfood,grains"
+of refined flour,"Breads, cereals, fastfood,grains"
+whole-wheat,"Breads, cereals, fastfood,grains"
+Spaghetti with meat sauce,"Breads, cereals, fastfood,grains"
+with tomatoes and cheese,"Breads, cereals, fastfood,grains"
+Spanish rice,"Breads, cereals, fastfood,grains"
+Shredded wheat biscuit,"Breads, cereals, fastfood,grains"
+Waffles,"Breads, cereals, fastfood,grains"
+Wheat germ,"Breads, cereals, fastfood,grains"
+Wheat-germ cereal toasted,"Breads, cereals, fastfood,grains"
+Wheat meal cereal unrefined,"Breads, cereals, fastfood,grains"
+"Wheat, cooked","Breads, cereals, fastfood,grains"
+Bean soups,Soups
+Beef soup,Soups
+Bouillon,Soups
+chicken soup,Soups
+Clam chowder,Soups
+Cream soups,Soups
+Noodle,Soups
+Split-pea soup,Soups
+Tomato soup,Soups
+Vegetable,Soups
+Apple betty,"Desserts, sweets"
+Bread pudding,"Desserts, sweets"
+Cakes,"Desserts, sweets"
+Chocolate fudge,"Desserts, sweets"
+Cupcake,"Desserts, sweets"
+Fruit cake,"Desserts, sweets"
+Gingerbread,"Desserts, sweets"
+"Plain, with no icing","Desserts, sweets"
+Sponge cake,"Desserts, sweets"
+Candy,"Desserts, sweets"
+Chocolate creams,"Desserts, sweets"
+Fudge,"Desserts, sweets"
+Hard candies,"Desserts, sweets"
+Marshmallows,"Desserts, sweets"
+Milk chocolate,"Desserts, sweets"
+Chocolate syrup,"Desserts, sweets"
+Doughnuts,"Desserts, sweets"
+"Gelatin, made with water","Desserts, sweets"
+Honey,"Jams, Jellies"
+Ice cream,"Desserts, sweets"
+Ices,"Desserts, sweets"
+preserves,"Jams, Jellies"
+Jellies,"Jams, Jellies"
+Molasses,"Jams, Jellies"
+Cane Syrup,"Jams, Jellies"
+"9"" diam. pie","Desserts, sweets"
+Cherry Pie,"Desserts, sweets"
+Custard,"Desserts, sweets"
+Lemon meringue,"Desserts, sweets"
+Mince,"Desserts, sweets"
+Pumpkin Pie,"Desserts, sweets"
+Puddings Sugar,"Desserts, sweets"
+3 teaspoons sugar,"Desserts, sweets"
+"Brown, firm-packed, dark sugar","Jams, Jellies"
+Syrup,"Jams, Jellies"
+table blends sugar,"Jams, Jellies"
+Tapioca cream pudding,"Desserts, sweets"
+Almonds,Seeds and Nuts
+roasted and salted,Seeds and Nuts
+Brazil nuts,Seeds and Nuts
+Cashews,Seeds and Nuts
+coconut sweetened,Seeds and Nuts
+Peanut butter,Seeds and Nuts
+"Peanut butter, natural",Seeds and Nuts
+Peanuts,Seeds and Nuts
+Pecans,Seeds and Nuts
+Sesame seeds,Seeds and Nuts
+Sunflower seeds,Seeds and Nuts
+Walnuts,Seeds and Nuts
+Beer,"Drinks,Alcohol, Beverages"
+Gin,"Drinks,Alcohol, Beverages"
+Wines,"Drinks,Alcohol, Beverages"
+Table (12.2% alcohol),"Drinks,Alcohol, Beverages"
+Carbonated drinks Artificially sweetened,"Drinks,Alcohol, Beverages"
+Club soda,"Drinks,Alcohol, Beverages"
+Cola drinks,"Drinks,Alcohol, Beverages"
+Fruit-flavored soda,"Drinks,Alcohol, Beverages"
+Ginger ale,"Drinks,Alcohol, Beverages"
+Root beer,"Drinks,Alcohol, Beverages"
+Coffee,"Drinks,Alcohol, Beverages"
+Tea,"Drinks,Alcohol, Beverages"
